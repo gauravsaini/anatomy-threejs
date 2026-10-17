@@ -1,0 +1,5 @@
+name: "anatomy"
+title: "Three-Anatomy"
+description: "Build interactive 3D mechanical and kinetic figures in Three.js that explain technical concepts as living physical machines, using procedural geometry, kinematic linkages, custom GLSL shaders, and GPU particle systems with a live telemetry readout."
+category: "Work and knowledge"
+include_in_prompt: true
